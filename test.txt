@@ -1,1 +1,34 @@
  
+#Compiled 
+- Golang is compiled
+- it just compiles everything and runtime is baked into the final product
+- Go tool can run file directly, without jvm
+- Executables are different for os
+
+
+# what
+- System apps to web apps - Cloud 
+- This lang is already moving into draw box a whole lot of google eco system and whole log of cloud infrstructre a lot of companies are using it they are shrinking up their machines that they were previously managing if they wwere machine managing 5-6 machine now they are shrinking it down to just two machnine or one machine.
+
+
+
+# Dont bring baggage (misses out a lot of features that you completely different language)
+
+- this language desing is really different and it took me a long time to finally understand that
+
+
+# Object Oriented
+- Yes and no
+- Here we dont have concept of classes but we have structs that is alternative of classes.
+- We dont have operator overloading we dont have method overloading, method overriding
+
+- Goo lang is designed with simplicity in mind that what we see 
+
+
+# Missing
+
+- there is no try catch, we dont write semi colon but it is ok
+
+
+
+
